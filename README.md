@@ -50,5 +50,7 @@ Easy Ensemble AdaBoost Classifier
 
 
 ## Summary 
-Summarize the results  of the machine learning models 
-Recommedation on the model to use 
+The models used on the analyis to evaluate if a loan had a high risk were weak thanks to their low precision
+The Ensemble models presented better resulst specially when determining the  sensitivity of the high risk credits.
+The EasyEnsembleClassifier model shows a recall of 94% so it detects almost all high risk credit.With low precision detection, a lot of low risk credits are falsely detected as high risk which would impact on a bank's reveniew and effiency to determine high risk loan opportunities 
+Then I recomend to use a linear regression model of a more robust forest tree model to accurently predict the high rick for loans 
