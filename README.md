@@ -6,15 +6,19 @@ By applying the skills learnt thru the module regarding data preparation, statis
 ## Results
 ###	Credit_risk_resampling
 #### Random oversampling 
+https://github.com/diana-arango/Credit_Risk_Analysis/blob/main/Pictures/Credit_risk_resampling/Random%20oversampling.png
 
 #### Oversampling
+https://github.com/diana-arango/Credit_Risk_Analysis/blob/main/Pictures/Credit_risk_resampling/Oversampling.png
 
 #### SMOTE Oversampling
+https://github.com/diana-arango/Credit_Risk_Analysis/blob/main/Pictures/Credit_risk_resampling/SMOTE%20Oversampling.png
 
 #### Balanced Random Forest Classifier 
+https://github.com/diana-arango/Credit_Risk_Analysis/blob/main/Pictures/Credit_risk_resampling/o%20Balanced%20Random%20Forest%20Classifier%20.png
 
 #### Easy Emsemble AdaBoost Classifier
- 
+https://github.com/diana-arango/Credit_Risk_Analysis/blob/main/Pictures/Credit_risk_resampling/o%20Easy%20Emsemble%20AdaBoost%20Classifier.png
 
 *Learning modules used to predict credit risk: 
 Random oversampling 
@@ -29,9 +33,12 @@ b.	Their rec for predicting high risk loans was over 50% of probability however 
 c.	On the other hand, Module: Easy Emsemble AdaBoost Classifier precision was closer to a perfect deviation .09. Its rec were close enough between 0.89 for high risk and 0.94 for low_ risk. Nevertheless the distance between high risk and low risk on the F1 column were substantially distant
 
 ### Credit risk ensemble
-#### Balanced Random Forest Classifier
-#### Easy Ensemble AdaBoost Classifier 
 
+#### Balanced Random Forest Classifier
+https://github.com/diana-arango/Credit_Risk_Analysis/blob/main/Pictures/Credit%20risk%20ensemble/Balanced%20Random%20Forest%20Classifier.png
+
+#### Easy Ensemble AdaBoost Classifier 
+https://github.com/diana-arango/Credit_Risk_Analysis/blob/main/Pictures/Credit%20risk%20ensemble/Easy%20Ensemble%20AdaBoost%20Classifier%20.png
 
 *Learning modules used to predict credit risk: 
 Balanced Random Forest Classifier
